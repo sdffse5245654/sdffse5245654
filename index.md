@@ -1,19 +1,20 @@
-## Welcome to GitHub Pages
+## 欢迎来到AETV-Craft Wiki
 
-You can use the [editor on GitHub](https://github.com/sdffse5245654/sdffse5245654/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+你可以使用 [editor on GitHub](https://github.com/sdffse5245654/sdffse5245654/edit/gh-pages/index.md) 和我们一起勾画服务器的未来！
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+访问我们的官网（http://aetv.pc.evyundata.net/vip_aetv.html)
+## 我们的论坛：（http://stgov.wap.fenxiaoabc.cn/wap_stgov.html）
 
-### Markdown
+### 工作之一：AETV Server
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+我们的工作人员
 
-```markdown
-Syntax highlighted code block
+```
+2022年AETV组委会审定工作人员
 
-# Header 1
-## Header 2
-### Header 3
+# 台长：老匪（服务器维护，AETV台长，服务器主代码修改）
+## 副台长：北旭  （节目审核，AETV副台长，服务器测试
+### 创意部部长：
 
 - Bulleted
 - List
